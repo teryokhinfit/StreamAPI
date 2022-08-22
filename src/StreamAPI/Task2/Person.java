@@ -1,4 +1,4 @@
-package JavaCore.StreamAPI.Task2;
+package StreamAPI.Task2;
 
 class Person {
     private String name;

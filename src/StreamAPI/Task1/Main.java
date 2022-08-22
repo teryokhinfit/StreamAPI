@@ -1,4 +1,4 @@
-package JavaCore.StreamAPI.Task1;
+package StreamAPI.Task1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
